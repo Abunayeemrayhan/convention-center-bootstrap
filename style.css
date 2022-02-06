@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+ body{
+    font-family: 'Poppins', sans-serif;
+ }
+
+ .card.special-card{
+     border-radius: 30px;
+     background: #3F87F5;
+     box-shadow: 0px 15px 29px -9px rgb(63 135 245);
+     position: relative;
+     top: -30px;
+     }
+.special-card .badge {
+    position: absolute;
+    background: #FF4E4E;
+    top: -12px;
+    right: 21px;   
+    }
+ .card-body i{
+     color: #5243C2;
+     background: #5243c24f;
+  }
+  .special-font{
+      font-weight: 600;
+  }
+  .special-box{
+      box-sizing: border-box;
+  }
